@@ -1,4 +1,4 @@
-# Pattern-1
+# Pattern Printing-1
 its a simple code to print a pattern.
 
 
